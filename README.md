@@ -60,7 +60,5 @@ A simple implementation of the classic paper-and-pencil game "Dots and Boxes" us
 
 ## 🖼️ Gameplay Screenshot
 
-*(You already have a screenshot named `Dots & Boxes.png`. You can embed it here)*
-
 ![Screenshot 2025-05-04 204917](https://github.com/user-attachments/assets/40f85a79-1833-4ebd-b230-8e11213b866f)
 
